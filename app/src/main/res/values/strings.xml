@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="tab_text_1">Engineering</string>
+    <string name="tab_text_2">Accurate</string>
+</resources>
